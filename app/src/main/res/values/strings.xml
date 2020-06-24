@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">appFirebase</string>
+    <string name="prefs_file">cl.ecorrea.appfirebase.PREFERENCE_FILE_KEY</string>
+</resources>
